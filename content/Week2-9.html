@@ -164,7 +164,15 @@ img.add_border {
 <p>6.將倉儲(cad2019)中所有的文件使用git add .的指令添加到Github倉儲中，在使用git commit編輯新增的所有文件.</p>
 <p>7.使用git push將文件推送到遠端.</p>
 <p>8.創建自己倉儲完成與網站完成.</p>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/CMitRTYu4Z0" width="560"></iframe></p><br />Develop << <a href='Develop.html'>Previous</a> </div>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/CMitRTYu4Z0" width="560"></iframe></p>
+<h4>week3</h4>
+<p>1.到下載的201906_fall的資料夾中的data&gt;tmp&gt;solvespace&gt;exlib&gt;angle&gt;CMakeLists找到713，714行最前面加上井字號.</p>
+<p>2.回到exlib的資料夾在python上操作<span>cd libpng&gt;cd build&gt;然後下cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release<span>(在libpng做出MinGW的格式與檢查系統有的文件)</span></span></p>
+<p><span><span>3.在build的資料夾下mingw32-make(進行 libpng.dll.a 的編譯)</span></span></p>
+<p><span><span>4.編譯完成後找到libpng.dll.a 並並改名為 libpng_static.a, 並放到編譯系統的 lib 目錄中 (即201906_fall的 msys64\mingw64\lib 目錄)</span></span></p>
+<p><span><span>5.回到solvespace的資料夾cd build進入build的資料夾，執行cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release與mingw32-make的指令</span></span></p>
+<p><span><span>6.指令完成後就可以開啟solvespace.exe執行solvespace</span></span></p>
+<p><span><span></span></span></p><br />Develop << <a href='Develop.html'>Previous</a> </div>
         
     <!-- footer -->
       <div class="container">
