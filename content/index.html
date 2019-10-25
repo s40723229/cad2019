@@ -143,7 +143,7 @@ img.add_border {
                             <li><a href="./../blog/index.html">blog</a></li>
                         </ul>
                       </li>
-                     <li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a><li><a href='Week2-9.html'>Week2-9</a></li>
+                     <li><a href='Week2-9.html'>Week2-9</a><li><a href='Q&A.html'>Q&A</a><li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a></li>
                       </ul>
                 </nav>
               </div>
@@ -154,18 +154,40 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content"> <a href='Develop.html'>Next</a> >> Develop<br /><h1>About</h1>
-<p>此內容管理系統以 <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 作為 submodule 運作, 可以選定對應的版本運作, cmsimde 可以持續改版, 不會影響之前設為 submodule, 使用舊版 cmsimde 模組的內容管理相關運作.</p>
-<h4>利用 cmsimde 建立靜態網誌方法:</h4>
-<p>1. 在 github 建立倉儲, git clone 到近端</p>
-<p>2. 參考 <a href="https://github.com/mdecourse/newcms">https://github.com/mdecourse/newcms</a>, 加入除了 cmsimde 目錄外的所有內容</p>
-<p>以 git submodule add <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> cmsimde</p>
-<p>建立 cmsimde 目錄, 並從 github 取下子模組內容.</p>
-<p>3.在近端維護時, 更換目錄到倉儲中的 cmsimde, 以 python wsgi.py 啟動近端網際伺服器.</p>
-<p>動態內容編輯完成後, 以 generate_pages 轉為靜態內容, 以 git add commit 及 push 將內容推到遠端.</p>
-<p>4. 之後若要以 git clone 取下包含 submodule 的所有內容, 執行:</p>
-<p>git clone --recurse-submodules <a href="https://github.com/mdecourse/newcms.git">https://github.com/mdecourse/newcms.git</a></p>
-<br /> <a href='Develop.html'>Next</a> >> Develop</div>
+    <div id="tipue_search_content"> <a href='Q&A.html'>Next</a> >> Q&A<br /><h1>Week2-9</h1>
+<h4>week2</h4>
+<p>1.進行課程前比須先到Github網站創建課程所需倉儲(cad2019).</p>
+<p>2.下載課程網站上老師提供的可攜系統(2b)(201906_fall).</p>
+<p>3.先將自己的倉儲使用git clone複製到自己的隨身硬碟中.</p>
+<p>4.使用git submodule add <a href="https://github.com/mdecourse/cmsimde.git">https://github.com/mdecourse/cmsimde.git</a> cmsimde的指新增cmsimde(近端的模組)，讓近端能使用.</p>
+<p>5.到老師的201906_fall的up_dir下載近端靜態網站的的模組讓靜態網站能夠使用.</p>
+<p>6.將倉儲(cad2019)中所有的文件使用git add .的指令添加到Github倉儲中，在使用git commit編輯新增的所有文件.</p>
+<p>7.使用git push將文件推送到遠端.</p>
+<p>8.創建自己倉儲完成與網站完成.</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/CMitRTYu4Z0" width="560"></iframe></p>
+<h4>week3</h4>
+<p>1.到下載的201906_fall的資料夾中的data&gt;tmp&gt;solvespace&gt;exlib&gt;angle&gt;CMakeLists找到713，714行最前面加上井字號.</p>
+<p>2.回到exlib的資料夾在python上操作<span>cd libpng&gt;cd build&gt;然後下cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release<span>(在libpng做出MinGW的格式與檢查系統有的文件)</span></span></p>
+<p><span><span>3.在build的資料夾下mingw32-make(進行 libpng.dll.a 的編譯)</span></span></p>
+<p><span><span>4.編譯完成後找到libpng.dll.a 並並改名為 libpng_static.a, 並放到編譯系統的 lib 目錄中 (即201906_fall的 msys64\mingw64\lib 目錄)</span></span></p>
+<p><span><span>5.回到solvespace的資料夾cd build進入build的資料夾，執行cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release與mingw32-make的指令</span></span></p>
+<p><span><span>6.指令完成後就可以開啟solvespace.exe執行solvespace</span></span></p>
+<p><span><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/jEh91koq_CY" width="560"></iframe></span></span></p>
+<h4><span><span></span></span>week4</h4>
+<p>進度暫停一周，把前面的進度補上</p>
+<h4>week5</h4>
+<p>1.進入課程網站的的Task1的solvespace操作觀看影片並練習</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/kvXqxwINmL4" width="560"></iframe></p>
+<h4>week6</h4>
+<p>任務一</p>
+<p>1.利用solovespace繪製雙輪車</p>
+<p>2.建立雙輪車所需零件並組合</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/w6tSE3Mmq5g" width="560"></iframe></p>
+<p>任務二</p>
+<p>1.下載<span> </span><a href="https://drive.google.com/file/d/1cZFSsLEoGOBYojzKzFEf4YH2l--pbS-9/view?usp=sharing">V-rep 3.6.1 rev 4.7z</a>和<span> </span><a href="https://github.com/mdecourse/mocad/files/3583773/web_vrep2.zip">web_vrep2.zip</a></p>
+<p>2.<span>利用 V-rep 3.6.1 rev4 與隨身程式執行系統, 完成網際 V-rep 模型控制</span></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/PHCj84Mascg" width="560"></iframe></p>
+<br /> <a href='Q&A.html'>Next</a> >> Q&A</div>
         
     <!-- footer -->
       <div class="container">
