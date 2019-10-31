@@ -164,6 +164,14 @@ img.add_border {
 <p>1.下載<span> </span><a href="https://drive.google.com/file/d/1cZFSsLEoGOBYojzKzFEf4YH2l--pbS-9/view?usp=sharing">V-rep 3.6.1 rev 4.7z</a>和<span> </span><a href="https://github.com/mdecourse/mocad/files/3583773/web_vrep2.zip">web_vrep2.zip</a></p>
 <p>2.<span>利用 V-rep 3.6.1 rev4 與隨身程式執行系統, 完成網際 V-rep 模型控制</span></p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/PHCj84Mascg" width="560"></iframe></p>
+<p>任務三</p>
+<p>1.<span>用編輯器開啟在web_vrep2資料夾</span><span>templates</span><span>中的</span><span>controls.html</span></p>
+<p><span>2.新增start</span><span>和stop的按鈕</span></p>
+<p><span>    指令:&lt;td&gt;&lt;a class="pure-button pure-button-primary" href="/do/start"&gt;start&lt;/a&gt;&lt;/td&gt;&lt;a class="pure-button pure-button-primary" href="/do/stop"&gt;stop&lt;/a&gt;&lt;/td&gt;</span></p>
+<p><span>3.在同樣的資料夾用編輯器開啟<span>vrep_linefollower</span><span>定義其中開始和結束按鈕</span></span></p>
+<p><span><span>     指令:if direction == 'start':<br/><span>                   vrep.simxStartSimulation(self.clientID, vrep.simx_opmode_oneshot)</span><br/><span>                   elif direction == 'stop':</span><br/><span>                   vrep.simxStopSimulation(self.clientID, vrep.simx_opmode_oneshot)</span><br/><span>                   else :(把原本定義上下左右的指令接到後面)</span></span></span></p>
+<p><span><span><span>4.打開<span>vrep.exe</span><span>並且用編輯器打開</span><span>app.py</span><span>並執行，就能在網際控制模組進行start和stop</span></span></span></span></p>
+<p><span><span><span><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/TUEzaCLiE90" width="560"></iframe></span></span></span></span></p>
 <br />week2-5 << <a href='week2-5.html'>Previous</a> <a href='week10-14.html'>Next</a> >> week10-14</div>
         
     <!-- footer -->
