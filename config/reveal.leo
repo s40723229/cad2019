@@ -20,10 +20,10 @@
 <v t="leo.20180902120523.8"><vh>slides div</vh>
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
-<v t="leo.20191212144051.1"><vh>w2-w5</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20191212144937.1"><vh>W2-W5</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
@@ -323,7 +323,7 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20191212144051.1"># w2-W5內容
+<t tx="leo.20191212144937.1"># w2-W5內容
 
 &lt;small&gt;W2-W5(https://s40723229.github.io/cad2019/content/week2-5.html)
 
