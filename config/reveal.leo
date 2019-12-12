@@ -36,6 +36,12 @@
 <v t="leo.20191212165549.1"><vh>投影片5</vh>
 <v t="leo.20191212165549.2"><vh>w9</vh></v>
 </v>
+<v t="leo.20191212194839.1"><vh>投影片6</vh>
+<v t="leo.20191212194839.2"><vh>w10</vh></v>
+</v>
+<v t="leo.20191212195459.1"><vh>投影片7</vh>
+<v t="leo.20191212195459.2"><vh>w12</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -437,6 +443,47 @@ vertical: body pane on the botton</t>
 期中報告
 
 &lt;iframe width="800" height="500" src="https://www.youtube.com/embed/kZ1ZO3rvzVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20191212194839.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191212194839.2"># W10
+
+&lt;small&gt;
+[W10-W14](https://s40723229.github.io/cad2019/contentweek10-14.html)
+&lt;/small&gt;
+
+* 亂數分組啟動分組任務
+* 組長創建倉儲組員進行fork
+* 學會如何建立pull repuest，由組長解決衝突問題
+
+[分組網站](https://s40723221.github.io/cad2019bg2/content/index.html)
+</t>
+<t tx="leo.20191212195459.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191212195459.2"># W12
+
+&lt;small&gt;
+[W10-W14](https://s40723229.github.io/cad2019/contentweek10-14.html)
+&lt;/small&gt;
+
+* 進行任務分配後完成自己的任務
+*教材內容整理
+*下載NX12orNX3
+
 </t>
 </tnodes>
 </leo_file>
