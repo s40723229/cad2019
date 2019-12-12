@@ -20,6 +20,7 @@
 <v t="leo.20180902120523.8"><vh>slides div</vh>
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20191212144051.1"><vh>w2-w5</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -52,9 +53,9 @@
 Created by [陳羽泓](https://s40723229.github.io/cad2019/content/index.html)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
-
-
+[倉儲](https://github.com/s40723229/cad2019)
+[網誌](https://s40723229.github.io/cad2019/blog/index.html)
+[網站](https://s40723229.github.io/cad2019/content/index.html)
 </t>
 <t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -322,5 +323,14 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20191212144051.1"># w2-W5內容
+
+&lt;small&gt;W2-W5(https://s40723229.github.io/cad2019/content/week2-5.html)
+
+* W2-創建倉儲和架設網站
+* W3-編譯Solvespace
+* W4-跟上先前進度
+* W5-練習操作Solvespace
+</t>
 </tnodes>
 </leo_file>
