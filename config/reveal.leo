@@ -21,6 +21,9 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20191212155441.1"><vh>投影片1</vh>
+<v t="leo.20191212155441.2"><vh>w2-w5</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -324,5 +327,25 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20191212155441.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191212155441.2"># W2-W5
+
+&lt;small&gt;
+[W2-W5](https://s40723229.github.io/cad2019/content/week2-5.html)
+
+* W2-建立倉儲和架設網站
+* W3-編譯Solvespace
+* W4-補齊先前進度
+* W5-練習操作Solvespace
+
+</t>
 </tnodes>
 </leo_file>
