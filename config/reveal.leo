@@ -436,10 +436,8 @@ vertical: body pane on the botton</t>
 
 ##期中報告
 
-
-&lt;iframe src="https://www.youtube.com/watch?v=kZ1ZO3rvzVY&amp;t=1s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-
+&lt;a href="https://youtu.be/kZ1ZO3rvzVY"&gt;https://youtu.be/kZ1ZO3rvzVY&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="800" height="500" src="https://www.youtube.com/embed/kZ1ZO3rvzVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
