@@ -27,6 +27,15 @@
 <v t="leo.20191212161815.1"><vh>投影片2</vh>
 <v t="leo.20191212161815.2"><vh>w6</vh></v>
 </v>
+<v t="leo.20191212164950.1"><vh>投影片3</vh>
+<v t="leo.20191212164950.2"><vh>w7</vh></v>
+</v>
+<v t="leo.20191212165329.1"><vh>投影片4</vh>
+<v t="leo.20191212165329.2"><vh>w8</vh></v>
+</v>
+<v t="leo.20191212165549.1"><vh>投影片5</vh>
+<v t="leo.20191212165549.2"><vh>w9</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -369,6 +378,66 @@ vertical: body pane on the botton</t>
 * 任務一:利用solovespace繪製雙輪車
 * 任務二:網際v-rep模組控制
 * 任務三:在網際控制程新增啟動和停止
+
+
+</t>
+<t tx="leo.20191212164950.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191212164950.2"># W7
+
+&lt;small&gt;
+[W6-W9](https://s40723229.github.io/cad2019/content/week6-9.html)
+&lt;/small&gt;
+
+* 任務一:編譯solvespace-修改help中about的內容
+* 任務二:solvespace繪圖認證
+
+
+
+</t>
+<t tx="leo.20191212165329.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191212165329.2"># W8
+
+&lt;small&gt;
+[W6-W9](https://s40723229.github.io/cad2019/content/week6-9.html)
+&lt;/small&gt;
+
+* 任務一:啟用網誌
+* 任務二:將webots導入隨身系統
+* 任務三:設定以ssh對github進行連線
+
+
+</t>
+<t tx="leo.20191212165549.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191212165549.2"># W9
+
+##期中報告
+
+
+&lt;iframe src="https://www.youtube.com/watch?v=kZ1ZO3rvzVY&amp;t=1s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
