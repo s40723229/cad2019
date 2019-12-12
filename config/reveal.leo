@@ -434,9 +434,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191212165549.2"># W9
 
-##期中報告
+期中報告
 
-&lt;a href="https://youtu.be/kZ1ZO3rvzVY"&gt;https://youtu.be/kZ1ZO3rvzVY&lt;/a&gt;&lt;/p&gt;
 &lt;iframe width="800" height="500" src="https://www.youtube.com/embed/kZ1ZO3rvzVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
