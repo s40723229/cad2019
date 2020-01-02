@@ -506,8 +506,7 @@ vertical: body pane on the botton</t>
 [W10-W14](https://s40723229.github.io/cad2019/contentweek10-14.html)
 &lt;/small&gt;
 
-&lt;iframe width="800" height="500" src="https://youtu.be/EVnSOvsDoa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/EVnSOvsDoa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200102210252.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -523,7 +522,7 @@ vertical: body pane on the botton</t>
 [W10-W14](https://s40723229.github.io/cad2019/contentweek10-14.html)
 &lt;/small&gt;
 
-* 導入GitExtensions
+*導入GitExtensions
 *設定好GitExtensions並且用putty連線
 *更新後網頁後使用GitExtensions推送
 </t>
