@@ -42,8 +42,11 @@
 <v t="leo.20191212195459.1"><vh>投影片7</vh>
 <v t="leo.20191212195459.2"><vh>w12</vh></v>
 </v>
+<v t="leo.20200102210252.1"><vh>投影片9</vh>
+<v t="leo.20200102210252.2"><vh>w13</vh></v>
+</v>
 <v t="leo.20200102205103.1"><vh>投影片8</vh>
-<v t="leo.20200102205103.2"><vh>w13</vh></v>
+<v t="leo.20200102205103.2"><vh>webots</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -503,8 +506,26 @@ vertical: body pane on the botton</t>
 [W10-W14](https://s40723229.github.io/cad2019/contentweek10-14.html)
 &lt;/small&gt;
 
-&lt;iframe src="https://youtu.be/EVnSOvsDoa8" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="800" height="500" src="https://youtu.be/EVnSOvsDoa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200102210252.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
+
+						
+</t>
+<t tx="leo.20200102210252.2"># W13
+
+&lt;small&gt;
+[W10-W14](https://s40723229.github.io/cad2019/contentweek10-14.html)
+&lt;/small&gt;
+
+* 導入GitExtensions
+*設定好GitExtensions並且用putty連線
+*更新後網頁後使用GitExtensions推送
 </t>
 </tnodes>
 </leo_file>
