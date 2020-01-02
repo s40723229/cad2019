@@ -487,8 +487,8 @@ vertical: body pane on the botton</t>
 &lt;/small&gt;
 
 * 進行任務分配後完成自己的任務
-*教材內容整理
-*下載NX12orNX3
+* 教材內容整理
+* 下載NX12orNX3
 
 </t>
 <t tx="leo.20200102205103.1">&lt;section data-markdown&gt;
@@ -522,9 +522,9 @@ vertical: body pane on the botton</t>
 [W10-W14](https://s40723229.github.io/cad2019/contentweek10-14.html)
 &lt;/small&gt;
 
-*導入GitExtensions
-*設定好GitExtensions並且用putty連線
-*更新後網頁後使用GitExtensions推送
+* 導入GitExtensions
+* 設定好GitExtensions並且用putty連線
+* 更新後網頁後使用GitExtensions推送
 </t>
 </tnodes>
 </leo_file>
