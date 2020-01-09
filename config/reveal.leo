@@ -48,6 +48,15 @@
 <v t="leo.20200102205103.1"><vh>投影片8</vh>
 <v t="leo.20200102205103.2"><vh>webots</vh></v>
 </v>
+<v t="leo.20200109161014.1"><vh>投影片9</vh>
+<v t="leo.20200109161014.2"><vh>w15</vh></v>
+</v>
+<v t="leo.20200109161435.1"><vh>投影片10</vh>
+<v t="leo.20200109161435.2"><vh>w16</vh></v>
+</v>
+<v t="leo.20200109162234.1"><vh>投影片11</vh>
+<v t="leo.20200109162234.2"><vh>w17</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -525,6 +534,61 @@ vertical: body pane on the botton</t>
 * 導入GitExtensions
 * 設定好GitExtensions並且用putty連線
 * 更新後網頁後使用GitExtensions推送
+</t>
+<t tx="leo.20200109161014.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109161014.2"># W15
+
+&lt;small&gt;
+[W15-W18](https://s40723229.github.io/cad2019/content/week15-18.html)
+&lt;/small&gt;
+
+* 這周開始上課都會有任務
+* 任務要在下課前完成
+* 並且要在github的issues回報</t>
+<t tx="leo.20200109161435.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109161435.2"># W16
+
+&lt;small&gt;
+[W15-W18](https://s40723229.github.io/cad2019/content/week15-18.html)
+&lt;/small&gt;
+
+* 這周的任務是cad練習畫出越野車零件
+* 組合以STL 格式轉出後,，轉入 V-rep
+* 組合以 WRL 格式轉出後, 轉入 Webots 
+* 將solvespace個零件檔、webots的 wbt檔、V-rep的ttt檔都放入個人倉儲中</t>
+<t tx="leo.20200109162234.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109162234.2"># W17
+
+&lt;small&gt;
+[W15-W18](https://s40723229.github.io/cad2019/content/week15-18.html)
+&lt;/small&gt;
+
+* 任務一:已分組進行教材翻譯解析
+* 任務二:越野車設計修改 
 </t>
 </tnodes>
 </leo_file>
