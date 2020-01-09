@@ -588,7 +588,7 @@ vertical: body pane on the botton</t>
 &lt;/small&gt;
 
 * 任務一:已分組進行教材翻譯解析
-* 任務二:越野車設計修改 
+* 任務二:越野車設計修改，完成各零件的尺寸標示工程圖轉入v-rep，所有的檔案都放入倉儲中
 </t>
 </tnodes>
 </leo_file>
