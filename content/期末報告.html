@@ -154,39 +154,9 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">week6-9 << <a href='week6-9.html'>Previous</a> <a href='week15-18.html'>Next</a> >> week15-18<br /><h1>week10-14</h1>
-<h4>week10</h4>
-<p>1. 進行亂數分組，啟動分組任務，依照組別將倉儲命名為<span>cad2019bg2(數字依組別修改)</span></p>
-<p><span>2.由組長創建倉儲其他組員進行fork</span></p>
-<p><span>3.組員必須會進行fork，建立正向 pull requests或逆向 pull requests，所有 pull requests都由組長處理衝突問題</span></p>
-<h4>week12</h4>
-<p><a href="http://mde.tw/cad2019/downloads/NX-12-for-Engineering-Design.pdf">教材</a></p>
-<p>第七章 <span>自由曲面建模</span></p>
-<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr"><span lang="zh-TW" tabindex="0">在本章中，您將學習如何在NX 12中創建自由曲面。<br/>至此，您已經學習了使用“表單特徵”或“草圖繪製”創建模型的不同方法。<br/>自由曲面建模涉及出於美學或功能目的，以曲面形式創建模型，例如車身和渦輪葉片。<br/>一些自由格式的功能如下所示<br/><img alt="" height="347" src="./../images/ApplicationFrameHost_2019-12-03_17-49-30.png" width="546"/><br/><br/></span></pre>
-<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr"><span lang="zh-TW" tabindex="0">要創建自由曲面的特徵，首先需要一組點，曲線，圖紙或實體的邊緣，圖紙或實體的面或其他對象。<br/>以下各節介紹了可用於使用自由格式功能創建模型的一些方法<br/><br/>7.1概論<br/><br/></span></pre>
-<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr" id="tw-target-text"><span lang="zh-TW" tabindex="0">在NX 12中，“Menu → Insert →Surface/Mesh Surface/Sweep/Flange Surface和 Menu → Edit → Surface可進行更高級的操作。<br/>您可以通過多種方式從現有特徵（如點，邊，曲線等）中創建自由形式特徵。以下部分討論了一些常用功能</span></pre>
-<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr" id="tw-target-text"><span lang="zh-TW" tabindex="0"> </span></pre>
-<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr"><span lang="zh-TW" tabindex="0">7.1.1 </span><span lang="zh-TW" tabindex="0">從點創建自由曲面<br/><br/></span></pre>
-<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr" id="tw-target-text"><span lang="zh-TW" tabindex="0">如果您正在構造或預先存在的數據的幾何僅包含點，則可以嘗試使用以下三個選項之一從給定點構建曲面</span></pre>
-<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr"><span lang="zh-TW" tabindex="0"><br/>➢ From Menu, click on Insert → Surface<br/>Four Point Surface:以四個點形成曲面<br/>Through Points:點的形式是矩形陣列形成的曲面<br/>From Poles:點的型式是矩形陣列並與穿過他們的線相切<br/><br/>7.1.2 </span><span lang="zh-TW" tabindex="0">從線創建自由曲面<br/><br/></span></pre>
-<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr" id="tw-target-text"><span lang="zh-TW" tabindex="0">如果構造幾何包含連接對象（曲線和邊），則可以使用以下兩個選項之一來創建自由曲面</span></pre>
-<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr"><span lang="zh-TW" tabindex="0"><br/>➢ From Menu, click on Insert → Mesh Surface<br/>Ruled:以兩條大致平行的線建構的曲面<br/><img alt="" height="139" src="./../images/ApplicationFrameHost_2019-12-03_17-50-01.png" width="326"/><br/>Through Curves:以兩條以上大致平行的線建構的曲面<br/><img alt="" height="144" src="./../images/ApplicationFrameHost_2019-12-03_17-50-09.png" width="309"/><br/><br/></span></pre>
-<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr"><span lang="zh-TW" tabindex="0">如果構造幾何包含兩個或更多個彼此大致平行的（曲線，面，邊），<br/>以及一個或多個大致垂直於第一組曲線（參考線）的截面，則可以嘗試使用其中一個以下這些選項可構建自由曲面<br/><br/>Through Curve Mesh:</span><span lang="zh-TW" tabindex="0">如果在每個方向（平行和垂直）上至少存在四個截面線且至少兩個線，則使用</span></pre>
-<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr"><span lang="zh-TW" tabindex="0"><img alt="" height="193" src="./../images/ApplicationFrameHost_2019-12-03_17-50-20.png" width="333"/><br/>Swept:</span><span lang="zh-TW" tabindex="0">如果至少兩個截面線大致垂直，則使用 (from Menu, choose Insert →Sweep)<br/><img alt="" height="195" src="./../images/ApplicationFrameHost_2019-12-03_17-50-26.png" width="313"/><br/><br/>7.1.3 </span><span lang="zh-TW" tabindex="0">從面創建自由曲面<br/><br/>Offset Surface:幾何表面有需要填補的曲面<br/><img alt="" height="183" src="./../images/ApplicationFrameHost_2019-12-03_17-50-34.png" width="318"/><br/></span></pre>
-<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr" id="tw-target-text"><span lang="zh-TW" tabindex="0">Extension:幾何表面有曲面和邊線或邊緣曲線或曲線<br/><img alt="" height="170" src="./../images/ApplicationFrameHost_2019-12-03_17-50-39.png" width="468"/><br/>   </span></pre>
-<h4>week13</h4>
-<p>導入GitExtensions</p>
-<p>1.先打開<span>GitExtensions進行相關設定</span></p>
-<p><span>2.在倉儲維護完後用GitExtensions開啟自己的倉儲</span></p>
-<p><span>3.點選tool中的git GUL</span></p>
-<p><span>4.在輸入欄中入想commit的內容標題(中英文都可以)</span></p>
-<p><span>5.輸入完成後以stage changed&gt;commit&gt;push的順序操作</span></p>
-<p><span>6.完成後可到github倉儲查看更新</span></p>
-<p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/sJA0E7LiraU" width="560"></iframe></span></p>
-<h4>week14</h4>
-<p>webots tutorial1</p>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/EVnSOvsDoa8" width="560"></iframe><br/><yt-formatted-string class="style-scope ytd-video-primary-info-renderer" force-default-style=""></yt-formatted-string></p>
-<br />week6-9 << <a href='week6-9.html'>Previous</a> <a href='week15-18.html'>Next</a> >> week15-18</div>
+    <div id="tipue_search_content">week15-18 << <a href='week15-18.html'>Previous</a> <a href='Note.html'>Next</a> >> Note<br /><h1>期末報告</h1>
+<p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/1A-1e9fs1u0" width="560"></iframe></span></p>
+<br />week15-18 << <a href='week15-18.html'>Previous</a> <a href='Note.html'>Next</a> >> Note</div>
         
     <!-- footer -->
       <div class="container">
